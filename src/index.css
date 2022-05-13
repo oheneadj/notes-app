@@ -66,8 +66,10 @@ textarea:focus {
 }
 
 .save:hover {
-	background-color: #ededed;
+	background-color: black;
 	cursor: pointer;
+	color:white;
+	transition: all ease-in-out 0.2s;
 }
 
 .note {
